@@ -1,0 +1,19 @@
+{
+  "name": "blockref",
+  "version": "0.0.0",
+  "description": "Gulp plug-in for creating streams of files referenced by script tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adsk-ui/blockref.git"
+  },
+  "author": "",
+  "license": "n/a",
+  "bugs": {
+    "url": "https://github.com/adsk-ui/blockref/issues"
+  },
+  "homepage": "https://github.com/adsk-ui/blockref"
+}
