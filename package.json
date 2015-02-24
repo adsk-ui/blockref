@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/adsk-ui/blockref",
   "dependencies": {
-  	"through2": "^0.6.3",
-  	"node-useref": "^0.3.8",
-  	"gulp-util": "^2.2.14"
+    "gulp-util": "^2.2.14",
+    "minimatch": "^2.0.1",
+    "node-useref": "^0.3.8",
+    "through2": "^0.6.3"
   }
 }
